@@ -1,0 +1,6 @@
+{
+  "name": "RentVerse",
+  "description": "A decentralized real estate rental platform with 3D property visualization and token ledger integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
